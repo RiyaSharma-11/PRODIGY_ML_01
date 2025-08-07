@@ -21,6 +21,12 @@ Build a **Linear Regression** model that predicts housing prices based on:
 - 📉 Mean Squared Error: *(varies per run)*
 - 📊 R² Score: *(varies per run)*
 
+
+## 🔗 Open in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RiyaSharma-11/PRODIGY_ML_01/blob/main/PRODIGY_ML_01.ipynb)
+
+---
+
 ### 📊 Visual:
 ![Actual vs Predicted Plot](Plot.png)
 
