@@ -1,6 +1,6 @@
 # PRODIGY_ML_01
 
-## Task 1 - House Price Prediction using Linear Regression
+## 📌Task 1 - House Price Prediction using Linear Regression
 
 This project is part of the Machine Learning Internship at **Prodigy InfoTech**.
 
