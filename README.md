@@ -18,8 +18,8 @@ Build a **Linear Regression** model that predicts housing prices based on:
 - matplotlib, seaborn
 
 ### 📈 Results:
-- 📉 Mean Squared Error: *(varies per run)*
-- 📊 R² Score: *(varies per run)*
+- 📉 Mean Squared Error: 2806426667.247853
+- 📊 R² Score: 0.6341189942328371
 
 
 ## 🔗 Open in Google Colab
